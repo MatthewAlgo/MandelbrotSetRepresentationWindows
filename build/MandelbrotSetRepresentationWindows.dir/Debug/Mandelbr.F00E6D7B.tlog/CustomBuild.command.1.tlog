@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PROJECTSRECREATION\STILLTESTING\MANDELBROTSETREPRESENTATIONWINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows -BC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build --check-stamp-file C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

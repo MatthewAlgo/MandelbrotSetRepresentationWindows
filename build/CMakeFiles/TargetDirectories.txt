@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/CMakeFiles/MandelbrotSetRepresentationWindows.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/CMakeFiles/ZERO_CHECK.dir

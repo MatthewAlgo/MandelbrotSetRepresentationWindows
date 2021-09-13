@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\WORKING_SOURCE_FILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\bgiout.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\dibutil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\drawing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\misc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\mouse.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\palette.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\text.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\winbgi.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\winthread.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\dibapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\dibutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\winbgi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\winbgim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\WinBGIFilesDIR\winbgitypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{110ABDBE-8CF8-37A4-9627-8898B01170D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{741EE4D1-0581-3D90-913D-88C42236FF55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

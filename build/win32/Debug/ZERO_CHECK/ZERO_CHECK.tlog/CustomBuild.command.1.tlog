@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PROJECTSRECREATION\STILLTESTING\MANDELBROTSETREPRESENTATIONWINDOWS\BUILD\CMAKEFILES\CC14825CE2ECB714A4CD890230701D2E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows -BC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/MandelbrotSetRepresentationWindows/build/MandelbrotSetRepresentationWindows.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

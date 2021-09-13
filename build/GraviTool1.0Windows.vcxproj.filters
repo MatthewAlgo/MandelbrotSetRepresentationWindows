@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\WORKING_SOURCE_FILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\bgiout.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\dibutil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\drawing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\misc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\mouse.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\palette.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\text.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\winbgi.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\winthread.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\dibapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\dibutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\winbgi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\winbgim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\WinBGIFilesDIR\winbgitypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\GraviTool1.0Windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{190EA829-D260-3308-B384-B3E0C894B95C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14D93D17-A391-39CB-91CD-FF8779FDF76E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

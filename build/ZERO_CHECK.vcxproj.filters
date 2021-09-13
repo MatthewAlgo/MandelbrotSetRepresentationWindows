@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\MandelbrotSetRepresentationWindows\build\CMakeFiles\cc14825ce2ecb714a4cd890230701d2e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FE2057A-B97F-3456-9A4A-5481D4FDF594}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\WORKING_SOURCE_FILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\bgiout.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\dibutil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\drawing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\misc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\mouse.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\palette.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\text.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\winbgi.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\winthread.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\dibapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\dibutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\winbgi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\winbgim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\WinBGIFilesDIR\winbgitypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\SquareWaveEmulator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{240B0971-4658-3A9F-8348-B11E3838B1EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3440EE7F-84E4-3017-9196-DEB5B298CAF5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
